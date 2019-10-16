@@ -1,3 +1,6 @@
+Based on https://reactjs.org/tutorial/tutorial.html
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
